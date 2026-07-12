@@ -138,8 +138,9 @@ The application includes:
 
 **Tushar Patel**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://www.linkedin.com/in/yourusername
+- GitHub: https://github.com/tushu66
+- LinkedIn: https://www.linkedin.com/in/tusharpatel8066
+- Presentation Link: https://drive.google.com/file/d/1gTz5H_Vj5s7NJknQM2Tt6rVDHtqQndLO/view?usp=sharing
 
 ---
 

@@ -1,16 +1,140 @@
-# React + Vite
+# 🎓 Student Information Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that displays student information using reusable components and props.
 
-Currently, two official plugins are available:
+## 📖 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The **Student Information Card** project is built with **React.js**. It demonstrates how to pass data from a parent component to a child component using **props** and dynamically render multiple student records using the `map()` method.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📋 Display multiple student records
+- 👤 Show student name
+- 🎓 Display course details
+- 🆔 Show Grid Number
+- 📧 Display email address
+- 📱 Display phone number
+- 💻 Show student skills
+- ⚛️ Built with reusable React components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6)
+- JSX
+- CSS
+- Vite
+
+---
+
+## 📂 Project Structure
+
+```text
+student-information-card/
+│
+├── src/
+│   ├── Component/
+│   │   └── Studentcard.jsx
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+│
+├── public/
+├── package.json
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/student-information-card.git
+```
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd student-information-card
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 📸 Output
+
+The application displays a list of students with the following information:
+
+- Student Name
+- Course
+- Grid Number
+- Email
+- Phone Number
+- Skills
+
+Each student's information is displayed as a separate card with a divider.
+
+---
+
+## 📚 React Concepts Used
+
+- Functional Components
+- Props
+- Array Mapping (`map()`)
+- JSX
+- Component Reusability
+
+---
+
+## 🔮 Future Improvements
+
+- Add CSS Card Design
+- Add Student Images
+- Search Students
+- Filter by Course
+- Edit/Delete Student
+- Store Data Using API or JSON Server
+- Responsive UI
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**
+
+GitHub: https://github.com/tushi66
+Presentation Link: "https://drive.google.com/file/d/1FYUTl-3db91mJNz_Bzi9BoknImw7qEv3/view?usp=sharing"
+
+---
+
+## 📄 License
+
+This project is created for learning React and is free to use.
+
+---
+
+⭐ If you found this project helpful, consider giving it a star on GitHub!

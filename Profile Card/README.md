@@ -129,8 +129,9 @@ The application displays a profile card containing:
 
 **Tushar Patel**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://www.linkedin.com/in/yourusername
+- GitHub: https://github.com/tush66
+- LinkedIn: https://www.linkedin.com/in/tusharpatel8066
+- Presentation Link: https://drive.google.com/file/d/1GrBbUQgvK2eWky0-mm-SxjTYwVNTk_pB/view?usp=sharing
 
 ---
 
